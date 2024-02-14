@@ -1,0 +1,28 @@
+Q.1  -> What is Hardhat?
+ANS  -> Hardhat is javascript based  ethereum development environment that can be used to create , deploy , debug and test smart contracts and DApps. It helps in devloping 
+        Web3 applications with ease by providing Hardhat runner that works as a intermediate between hardhat environment and developer . It helps developers to manage many 
+        of the tasks inherent to devloping DApps and smart contracts. Along with providing developers with proper tools to manage all the things . Hardhat comes with an 
+        already built in local Ethereum network designed to deploy smart contracts locally and test them. 
+        There are some prerequisite for hardhat developer that include :
+        a. javascript knowledge 
+        b. basic evm and solidity knowledge 
+        c. Metamask knowledge 
+         
+        Benifits of using hardhat over other frameworks :
+        A. Migaration process is faster
+        B. Migaration gas fee is less than anyother framework.
+        C. Debugging and Testing is much more easier than all the other frameworks.
+
+        hardhat commands : 
+        'npm install --save-dev hardhat' -> installing hardhat 
+         'npx hardhat init '
+         'npx hardhat deploy'
+         'npx hardhat test '
+         'npx hardhat node'
+         'npx hardhat run'
+
+
+Q.2 -> Demonstrate the steps involved in the process of installation and configuration of Hardhat Development Environment. 
+ANS ->
+        
+         
